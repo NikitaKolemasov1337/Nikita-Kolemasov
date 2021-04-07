@@ -1,0 +1,50 @@
+a { 
+    text-decoration: none;
+   } 
+   a {
+    color: #222222; 
+    text-decoration: none; 
+   }
+   a:visited {
+    color: #828272;
+   } 
+   a:hover {
+    color: #FF0000; 
+    text-decoration: 
+   }
+   a {
+    padding: 2px; 
+    text-decoration: none; 
+   }
+   a:hover {
+    background: #DCDCDC; 
+    color: red; 
+   }
+   a.but:hover {
+    color: #FF0000; 
+    text-decoration: 
+   }
+   a.but {
+    padding: 2px; 
+    text-decoration: none;
+    color: #d3d3d3; 
+   }
+   a.but:hover {
+    background: #DCDCDC; 
+    color: red; 
+   }
+    @font-face {
+    font-family: Rokkitt; /* Имя шрифта */
+    src: url(Rokkitt-Regular.ttf); /* Путь к файлу со шрифтом */
+   }
+   P {
+    font-family: Rokkitt;
+   }
+table{
+font-size: 50px;
+font-family: "Rokkitt";
+}      
+th{
+color: gray;
+text-shadow: 1px 1px 1px #000;
+}
